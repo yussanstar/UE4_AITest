@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.26.0-l5c1",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "UE4_AITest",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
+}
